@@ -1,0 +1,16 @@
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.csprojAssemblyReference.cache
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.AssemblyInfoInputs.cache
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.AssemblyInfo.cs
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\InterviewTasks\bin\Debug\net5.0\InterviewTasks.exe
+C:\Users\haris\Desktop\InterviewTasks\bin\Debug\net5.0\InterviewTasks.deps.json
+C:\Users\haris\Desktop\InterviewTasks\bin\Debug\net5.0\InterviewTasks.runtimeconfig.json
+C:\Users\haris\Desktop\InterviewTasks\bin\Debug\net5.0\InterviewTasks.runtimeconfig.dev.json
+C:\Users\haris\Desktop\InterviewTasks\bin\Debug\net5.0\InterviewTasks.dll
+C:\Users\haris\Desktop\InterviewTasks\bin\Debug\net5.0\ref\InterviewTasks.dll
+C:\Users\haris\Desktop\InterviewTasks\bin\Debug\net5.0\InterviewTasks.pdb
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.dll
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\ref\InterviewTasks.dll
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.pdb
+C:\Users\haris\Desktop\InterviewTasks\obj\Debug\net5.0\InterviewTasks.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\haris\Desktop\TaskOne\bin\Debug\net5.0\TaskOne.exe
+C:\Users\haris\Desktop\TaskOne\bin\Debug\net5.0\TaskOne.deps.json
+C:\Users\haris\Desktop\TaskOne\bin\Debug\net5.0\TaskOne.runtimeconfig.json
+C:\Users\haris\Desktop\TaskOne\bin\Debug\net5.0\TaskOne.runtimeconfig.dev.json
+C:\Users\haris\Desktop\TaskOne\bin\Debug\net5.0\TaskOne.dll
+C:\Users\haris\Desktop\TaskOne\bin\Debug\net5.0\ref\TaskOne.dll
+C:\Users\haris\Desktop\TaskOne\bin\Debug\net5.0\TaskOne.pdb
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.csprojAssemblyReference.cache
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.AssemblyInfoInputs.cache
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.AssemblyInfo.cs
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.dll
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\ref\TaskOne.dll
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.pdb
+C:\Users\haris\Desktop\TaskOne\obj\Debug\net5.0\TaskOne.genruntimeconfig.cache
